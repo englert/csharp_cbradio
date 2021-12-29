@@ -1,0 +1,16 @@
+/home/runner/cbradio/obj/Debug/netcoreapp5.0/main.csprojAssemblyReference.cache
+/home/runner/cbradio/obj/Debug/netcoreapp5.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/cbradio/obj/Debug/netcoreapp5.0/main.AssemblyInfoInputs.cache
+/home/runner/cbradio/obj/Debug/netcoreapp5.0/main.AssemblyInfo.cs
+/home/runner/cbradio/obj/Debug/netcoreapp5.0/main.csproj.CoreCompileInputs.cache
+/home/runner/cbradio/bin/Debug/netcoreapp5.0/main
+/home/runner/cbradio/bin/Debug/netcoreapp5.0/main.deps.json
+/home/runner/cbradio/bin/Debug/netcoreapp5.0/main.runtimeconfig.json
+/home/runner/cbradio/bin/Debug/netcoreapp5.0/main.runtimeconfig.dev.json
+/home/runner/cbradio/bin/Debug/netcoreapp5.0/main.dll
+/home/runner/cbradio/bin/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/cbradio/bin/Debug/netcoreapp5.0/main.pdb
+/home/runner/cbradio/obj/Debug/netcoreapp5.0/main.dll
+/home/runner/cbradio/obj/Debug/netcoreapp5.0/ref/main.dll
+/home/runner/cbradio/obj/Debug/netcoreapp5.0/main.pdb
+/home/runner/cbradio/obj/Debug/netcoreapp5.0/main.genruntimeconfig.cache
